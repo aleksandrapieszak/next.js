@@ -20,3 +20,4 @@ function NoteContent(props){
     )
 }
 export default NoteContent;
+
